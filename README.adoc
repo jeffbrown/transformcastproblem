@@ -1,3 +1,7 @@
+```
+./gradlew :app:test
+```
+
 This project contains the following test:
 
 ```
